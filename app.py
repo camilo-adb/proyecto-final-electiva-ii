@@ -22,7 +22,7 @@ COLORES_MODALIDAD = {'Remoto': '#3A6EA5', 'Híbrido': '#5DA9E9', 'No especificad
 ORDEN_SENIORITY = list(COLORES_SENIORITY)
 PLANTILLA = 'plotly_white'
 
-st.set_page_config(page_title='Empleos en datos LATAM', page_icon='📊', layout='wide')
+st.set_page_config(page_title='Empleos en datos LATAM', layout='wide')
 
 
 @st.cache_data
