@@ -65,7 +65,7 @@ st.sidebar.caption('Proyecto final · Electiva II – Introducción a la Ciencia
                    'Fundación Universitaria de Popayán · Camilo Dorado y Sebastián Beltrán')
 
 # Encabezado
-st.title('📊 Demanda de empleos en datos en Latinoamérica')
+st.title('Demanda de empleos en datos en Latinoamérica')
 st.markdown(
     '**Pregunta:** ¿cómo se distribuye la demanda de empleos en datos publicada en LinkedIn en Colombia, '
     'Argentina, Chile y Uruguay según país, ciudad, rol, nivel de experiencia y modalidad?  \n'
